@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.rad-button {
+  @apply px-2 py-1 text-sm font-semibold text-white bg-blue-500 rounded hover:bg-blue-600;
+}
